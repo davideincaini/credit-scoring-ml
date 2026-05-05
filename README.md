@@ -1,4 +1,4 @@
-# Credit Scoring — Binary Classification on 338k Records
+# Credit Scoring — Binary Classification 
 
 ## Problem
 A bank needs to predict whether a customer will consistently repay their credit card — approving high-risk customers generates losses that can be orders of magnitude larger than the profit from good payers.
